@@ -4,7 +4,6 @@ out/
 !**/src/test/**/out/
 .kotlin
 .idea
-learnjava6e-main
 ### Eclipse ###
 .apt_generated
 .classpath
