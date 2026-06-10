@@ -1,5 +1,3 @@
-package ch04.solutions;
-
 /**
  * A basic implementation of Euclid's greatest common denominator
  * algorithm.
@@ -8,7 +6,7 @@ package ch04.solutions;
  */
 public class Euclid {
   public static void main(String args[]) {
-    // For now, just "hard code" the two numbers to compare
+
     int a = 2701;
     int b = 222;
     int original_a = a;
@@ -20,6 +18,15 @@ public class Euclid {
         b = b - a;
       }
     }
+    //Second Solution
+    /*
+    while (b != 0) {
+      int remainder = a % b;
+      a = b;
+      b = remainder;
+    }
+    System.out.println("GCD is " + a);
+     */
     System.out.println("The GCD of " + original_a + " and " + original_b + " is " + a);
   }
 }

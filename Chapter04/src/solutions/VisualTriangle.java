@@ -1,5 +1,3 @@
-package ch04.solutions;
-
 public class VisualTriangle {
   public static void main(String args[]) {
     // Create our "triangular" two-dimensional array
