@@ -1,4 +1,4 @@
-package ch04.examples;
+
 
 public class SwitchDemo {
   // Constants for use in various switch cases

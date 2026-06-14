@@ -1,5 +1,3 @@
-package ch04.examples;
-
 import javax.swing.*;
 
 public class HelloJava {

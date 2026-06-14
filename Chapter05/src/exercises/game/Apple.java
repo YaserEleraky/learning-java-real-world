@@ -1,5 +1,3 @@
-package ch05.exercises.game;
-
 import java.awt.*;
 
 /**

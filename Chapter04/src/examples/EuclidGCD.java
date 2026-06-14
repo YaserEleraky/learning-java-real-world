@@ -1,5 +1,3 @@
-package ch04.examples;
-
 /**
  * A basic implementation of Euclid's greatest common denominator
  * algorithm.

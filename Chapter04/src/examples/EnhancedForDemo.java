@@ -1,5 +1,3 @@
-package ch04.examples;
-
 import java.util.ArrayList;
 
 public class EnhancedForDemo {

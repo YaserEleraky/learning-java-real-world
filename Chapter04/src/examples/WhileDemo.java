@@ -1,4 +1,3 @@
-package ch04.examples;
 
 public class WhileDemo {
   public static void main(String args[]) {

@@ -1,5 +1,3 @@
-package ch02.exercises;
-
 import javax.swing.*;
 
 /**

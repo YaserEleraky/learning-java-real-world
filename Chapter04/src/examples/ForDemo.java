@@ -1,5 +1,3 @@
-package ch04.examples;
-
 public class ForDemo {
   public static void main(String args[]) {
     System.out.println("Count up from 0 to 99:");

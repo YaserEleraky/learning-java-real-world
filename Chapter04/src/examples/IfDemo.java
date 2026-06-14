@@ -1,4 +1,3 @@
-package ch04.examples;
 
 public class IfDemo {
   public static void main(String args[]) {

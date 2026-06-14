@@ -1,5 +1,3 @@
-package ch05.solutions.game;
-
 import java.awt.*;
 
 /**

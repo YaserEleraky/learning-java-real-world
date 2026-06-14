@@ -1,5 +1,3 @@
-package ch02.solutions;
-
 import javax.swing.*;
 
 public class GoodbyeJava {
